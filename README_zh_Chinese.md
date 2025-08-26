@@ -56,8 +56,8 @@
 **开始：**
 
 - **加入我们的社区：**
-    - [Discord]: (https://discord.gg/jmbDGwtZ7P)
-    - [Telegram]: (https://t.me/EvolvIDE)
+    - Discord: https://discord.gg/jmbDGwtZ7P
+    - Telegram: https://t.me/EvolvIDE
 
 ## 我们对未来的愿景
 
