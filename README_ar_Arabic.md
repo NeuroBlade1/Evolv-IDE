@@ -56,8 +56,8 @@
 **ابدأ:**
 
 - **انضم إلى مجتمعنا:**
-    - [Discord]: (https://discord.gg/jmbDGwtZ7P)
-    - [Telegram]: (https://t.me/EvolvIDE)
+    - Discord: https://discord.gg/jmbDGwtZ7P
+    - Telegram: https://t.me/EvolvIDE
 
 ## رؤيتنا للمستقبل
 
