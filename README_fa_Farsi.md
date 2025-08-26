@@ -56,8 +56,8 @@
 **شروع کنید:**
 
 - **به جامعه ما بپیوندید:**
-    - [Discord]: (https://discord.gg/jmbDGwtZ7P)
-    - [Telegram]: (https://t.me/EvolvIDE)
+    - Discord: https://discord.gg/jmbDGwtZ7P
+    - Telegram: https://t.me/EvolvIDE
 
 ## چشم‌انداز ما برای آینده
 
