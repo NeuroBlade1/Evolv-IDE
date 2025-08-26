@@ -56,8 +56,8 @@ Voici comment vous pouvez contribuer :
 **Commencez :**
 
 - **Rejoignez notre communauté :**
-    - [Discord]: (https://discord.gg/jmbDGwtZ7P)
-    - [Telegram]: (https://t.me/EvolvIDE)
+    - Discord: https://discord.gg/jmbDGwtZ7P
+    - Telegram: https://t.me/EvolvIDE
     
 ## Notre vision pour l'avenir
 
