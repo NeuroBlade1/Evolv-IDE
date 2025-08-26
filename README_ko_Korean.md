@@ -56,8 +56,8 @@
 **시작하기:**
 
 - **커뮤니티 가입:**
-    - [Discord]: (https://discord.gg/jmbDGwtZ7P)
-    - [Telegram]: (https://t.me/EvolvIDE)
+    - Discord: https://discord.gg/jmbDGwtZ7P
+    - Telegram: https://t.me/EvolvIDE
 
 ## 미래를 위한 우리의 비전
 
