@@ -56,8 +56,8 @@
 **始めるには：**
 
 - **コミュニティに参加する：**
-    - [Discord]: (https://discord.gg/jmbDGwtZ7P)
-    - [Telegram]: (https://t.me/EvolvIDE)
+    - Discord: https://discord.gg/jmbDGwtZ7P
+    - Telegram: https://t.me/EvolvIDE
 
 ## 未来への私たちのビジョン
 
