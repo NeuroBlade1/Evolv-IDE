@@ -56,8 +56,8 @@
 **Начать:**
 
 - **Присоединяйтесь к нашему сообществу:**
-    - [Discord]: (https://discord.gg/jmbDGwtZ7P)
-    - [Telegram]: (https://t.me/EvolvIDE)
+    - Discord: https://discord.gg/jmbDGwtZ7P
+    - Telegram: https://t.me/EvolvIDE
 
 ## Наше видение будущего
 
